@@ -1,0 +1,27 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_9_1392" fill="white">
+<path d="M0 110C0 49.2487 49.2487 0 110 0C170.751 0 220 49.2487 220 110C220 170.751 170.751 220 110 220C49.2487 220 0 170.751 0 110Z"/>
+</mask>
+<path d="M0 110C0 49.2487 49.2487 0 110 0C170.751 0 220 49.2487 220 110C220 170.751 170.751 220 110 220C49.2487 220 0 170.751 0 110Z" fill="url(#paint0_linear_9_1392)"/>
+<path d="M0 110M220 110M220 110M0 110M110 0M220 110M110 220M0 110M110 220V218C50.3532 218 2 169.647 2 110H0H-2C-2 171.856 48.1441 222 110 222V220ZM220 110H218C218 169.647 169.647 218 110 218V220V222C171.856 222 222 171.856 222 110H220ZM110 0V2C169.647 2 218 50.3532 218 110H220H222C222 48.1441 171.856 -2 110 -2V0ZM110 0V-2C48.1441 -2 -2 48.1441 -2 110H0H2C2 50.3532 50.3532 2 110 2V0Z" fill="#C6A75E" fill-opacity="0.3" mask="url(#path-1-inside-1_9_1392)"/>
+<path d="M110 70V150" stroke="#C6A75E" stroke-width="3" stroke-linecap="round"/>
+<path d="M110 80C100 83.3333 91.6667 86.6667 85 90" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 90C98 93.3333 88 96.6667 80 100" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 100C96.6667 103.333 86 107.333 78 112" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 110C95.3333 113.333 85.3333 117.333 80 122" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 120C96.6667 123.333 88.3333 127.333 85 132" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 130C100 133.333 93.3333 136.667 90 140" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 80C120 83.3333 128.333 86.6667 135 90" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 90C122 93.3333 132 96.6667 140 100" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 100C123.333 103.333 134 107.333 142 112" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 110C124.667 113.333 134.667 117.333 140 122" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 120C123.333 123.333 131.667 127.333 135 132" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 130C120 133.333 126.667 136.667 130 140" stroke="#C6A75E" stroke-width="2" stroke-linecap="round"/>
+<path d="M110 75C112.761 75 115 72.7614 115 70C115 67.2386 112.761 65 110 65C107.239 65 105 67.2386 105 70C105 72.7614 107.239 75 110 75Z" fill="#C6A75E"/>
+<defs>
+<linearGradient id="paint0_linear_9_1392" x1="0" y1="0" x2="220" y2="220" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C6A75E" stop-opacity="0.1"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
